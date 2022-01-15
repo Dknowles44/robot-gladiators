@@ -125,6 +125,7 @@ else {
   window.alert("Thank you for playing Robot Gladiators! Come back soon!");
 }
 endGame();
+debugger;
 };
 
 //start the game when the page loads
